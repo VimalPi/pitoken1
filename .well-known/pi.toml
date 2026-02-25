@@ -1,0 +1,9 @@
+VERSION="2.0"
+
+[[CURRENCIES]]
+code="MYTOKEN"
+issuer="GAMR5HWIHFRLJGLBWWIXO43GYRDK32W5S3GO7WATS64KL3KCF2D6OHIZ"
+name="MYTOKEN"
+desc="MYTOKEN is a Pi Testnet token created for educational and development purposes."
+status="live"
+display_decimals=7
