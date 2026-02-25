@@ -7,4 +7,5 @@ name="MYTOKEN"
 desc="MyTT1 is a Pi Testnet token created for educational and development purposes."
 status="live"
 display_decimals=7
+image="https://vimalpi.github.io/pitoken1/logo.png"
 # update
